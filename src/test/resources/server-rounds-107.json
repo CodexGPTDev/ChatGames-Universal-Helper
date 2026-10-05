@@ -1,0 +1,2746 @@
+[
+  {
+    "type": "fillout",
+    "question": "_a_a",
+    "answer": "Cama",
+    "prompt": "Completa la palabra `_a_a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos lados tiene un dado? (número)",
+    "answer": "6",
+    "prompt": "`¿Cuántos lados tiene un dado? (número)`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos lados tiene un dado? (número)",
+    "answer": "6",
+    "prompt": "`¿Cuántos lados tiene un dado? (número)`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "olS",
+    "answer": "Sol",
+    "prompt": "Tienes 60 segundos para descifrarlo `olS`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_ome_a",
+    "answer": "Cometa",
+    "prompt": "Completa la palabra `_ome_a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_e_ua",
+    "answer": "Yegua",
+    "prompt": "Completa la palabra `_e_ua`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el animal que dice \"mu\" y produce leche?",
+    "answer": "Vaca",
+    "prompt": "¿Cuál es el animal que dice \"mu\" y produce leche?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_li__te",
+    "answer": "Cliente",
+    "prompt": "Completa la palabra `_li__te`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "eljRo",
+    "answer": "Reloj",
+    "prompt": "Tienes 60 segundos para descifrarlo `eljRo`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué instrumento musical se toca golpeando con baquetas?",
+    "answer": "Batería",
+    "prompt": "¿Qué instrumento musical se toca golpeando con baquetas?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "íaMz",
+    "answer": "Maíz",
+    "prompt": "Tienes 60 segundos para descifrarlo `íaMz`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es amarilla por fuera y blanca por dentro, y se puede utilizar para hacer helado?",
+    "answer": "Plátano",
+    "prompt": "¿Qué fruta es amarilla por fuera y blanca por dentro, y se puede utilizar para hacer helado?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_erdo",
+    "answer": "Cerdo",
+    "prompt": "Completa la palabra `_erdo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "adlaremsE",
+    "answer": "Esmeralda",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `adlaremsE`",
+    "style": "es20"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "anaidisbO",
+    "answer": "Obsidiana",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `anaidisbO`",
+    "style": "es20"
+  },
+  {
+    "type": "unscramble",
+    "question": "lSali",
+    "answer": "Silla",
+    "prompt": "Tienes 60 segundos para descifrarlo `lSali`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "T_e__a",
+    "answer": "Tierra",
+    "prompt": "Completa la palabra `T_e__a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "C___ivo",
+    "answer": "Cultivo",
+    "prompt": "Completa la palabra `C___ivo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color resulta de mezclar azul y rojo?",
+    "answer": "Morado",
+    "prompt": "¿Qué color resulta de mezclar azul y rojo?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aliaxGa",
+    "answer": "Galaxia",
+    "prompt": "Tienes 60 segundos para descifrarlo `aliaxGa`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "atisednA",
+    "answer": "Andesita",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `atisednA`",
+    "style": "es20"
+  },
+  {
+    "type": "fillout",
+    "question": "_ofre",
+    "answer": "Cofre",
+    "prompt": "Tienes 20 segundos para completar la palabra: `_ofre`",
+    "style": "es20"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_o_s",
+    "answer": "Mobs",
+    "prompt": "Tienes 20 segundos para completar la palabra: `_o_s`",
+    "style": "es20"
+  },
+  {
+    "type": "unscramble",
+    "question": "srlEltae",
+    "answer": "Estrella",
+    "prompt": "Tienes 60 segundos para descifrarlo `srlEltae`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Cetmao",
+    "answer": "Cometa",
+    "prompt": "Tienes 60 segundos para descifrarlo `Cetmao`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_no_oro",
+    "answer": "Inodoro",
+    "prompt": "Completa la palabra `_no_oro`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde los aviones despegan y aterrizan?",
+    "answer": "Aeropuerto",
+    "prompt": "¿Cómo se llama el lugar donde los aviones despegan y aterrizan?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene alas y vuela en el cielo?",
+    "answer": "Pájaro",
+    "prompt": "¿Qué animal tiene alas y vuela en el cielo?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__va_o",
+    "answer": "Lavabo",
+    "prompt": "Completa la palabra `__va_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el instrumento musical que se toca golpeando con las manos?",
+    "answer": "Tambor",
+    "prompt": "¿Cómo se llama el instrumento musical que se toca golpeando con las manos?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "___tina",
+    "answer": "Cortina",
+    "prompt": "Completa la palabra `___tina`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos lados tiene un dado? (número)",
+    "answer": "6",
+    "prompt": "`¿Cuántos lados tiene un dado? (número)`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la parte del cuerpo que usamos para caminar?",
+    "answer": "Pierna",
+    "prompt": "¿Cuál es la parte del cuerpo que usamos para caminar?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Sfoá",
+    "answer": "Sofá",
+    "prompt": "Tienes 60 segundos para descifrarlo `Sfoá`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es pequeña, redonda y de color rojo?",
+    "answer": "Fresa",
+    "prompt": "¿Qué fruta es pequeña, redonda y de color rojo?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__a_tor",
+    "answer": "Tractor",
+    "prompt": "Completa la palabra `__a_tor`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "atMer",
+    "answer": "Marte",
+    "prompt": "Tienes 60 segundos para descifrarlo `atMer`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_n_do_o",
+    "answer": "Inodoro",
+    "prompt": "Completa la palabra `_n_do_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_ava",
+    "answer": "Lava",
+    "prompt": "Tienes 20 segundos para completar la palabra: `_ava`",
+    "style": "es20"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos lados tiene un dado? (número)",
+    "answer": "6",
+    "prompt": "`¿Cuántos lados tiene un dado? (número)`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "euloNasb",
+    "answer": "Nebulosa",
+    "prompt": "Tienes 60 segundos para descifrarlo `euloNasb`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la capital de España?",
+    "answer": "Madrid",
+    "prompt": "¿Cuál es la capital de España?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "eatarrC",
+    "answer": "Cartera",
+    "prompt": "Tienes 60 segundos para descifrarlo `eatarrC`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aLabvo",
+    "answer": "Lavabo",
+    "prompt": "Tienes 60 segundos para descifrarlo `aLabvo`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una concha y se arrastra lentamente?",
+    "answer": "Caracol",
+    "prompt": "¿Qué animal tiene una concha y se arrastra lentamente?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el color que resulta de mezclar rojo y amarillo?",
+    "answer": "Naranja",
+    "prompt": "¿Cuál es el color que resulta de mezclar rojo y amarillo?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_ul_i_o",
+    "answer": "Cultivo",
+    "prompt": "Completa la palabra `_ul_i_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color se obtiene de mezclar azul y rojo?",
+    "answer": "Morado",
+    "prompt": "¿Qué color se obtiene de mezclar azul y rojo?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una trompa larga y se utiliza para cargar cosas pesadas?",
+    "answer": "Elefante",
+    "prompt": "¿Qué animal tiene una trompa larga y se utiliza para cargar cosas pesadas?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene manchas negras y blancas y vive en África?",
+    "answer": "Cebra",
+    "prompt": "¿Qué animal tiene manchas negras y blancas y vive en África?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_e_ul__a",
+    "answer": "Nebulosa",
+    "prompt": "Completa la palabra `_e_ul__a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Trerai",
+    "answer": "Tierra",
+    "prompt": "Tienes 60 segundos para descifrarlo `Trerai`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el proceso de cambio de estado del agua de sólido a líquido?",
+    "answer": "Fusión",
+    "prompt": "¿Cómo se llama el proceso de cambio de estado del agua de sólido a líquido?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene plumas y puede volar?",
+    "answer": "Pájaro",
+    "prompt": "¿Qué animal tiene plumas y puede volar?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene plumas y puede volar?",
+    "answer": "Pájaro",
+    "prompt": "¿Qué animal tiene plumas y puede volar?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color tiene el cielo en un día despejado?",
+    "answer": "Azul",
+    "prompt": "¿Qué color tiene el cielo en un día despejado?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el animal que dice \"mu\" y nos da leche?",
+    "answer": "Vaca",
+    "prompt": "¿Cuál es el animal que dice \"mu\" y nos da leche?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el objeto que usamos para escribir en un papel?",
+    "answer": "Lápiz",
+    "prompt": "¿Cómo se llama el objeto que usamos para escribir en un papel?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aborAflm",
+    "answer": "Alfombra",
+    "prompt": "Tienes 60 segundos para descifrarlo `aborAflm`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde se guardan los libros en una escuela?",
+    "answer": "Biblioteca",
+    "prompt": "¿Cómo se llama el lugar donde se guardan los libros en una escuela?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Grraeojn",
+    "answer": "Granjero",
+    "prompt": "Tienes 60 segundos para descifrarlo `Grraeojn`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "inPteedola",
+    "answer": "Planetoide",
+    "prompt": "Tienes 60 segundos para descifrarlo `inPteedola`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "G__lo",
+    "answer": "Gallo",
+    "prompt": "Completa la palabra `G__lo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "anaidisbO",
+    "answer": "Obsidiana",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `anaidisbO`",
+    "style": "es20"
+  },
+  {
+    "type": "unscramble",
+    "question": "adlaremsE",
+    "answer": "Esmeralda",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `adlaremsE`",
+    "style": "es20"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__bs",
+    "answer": "Mobs",
+    "prompt": "Tienes 20 segundos para completar la palabra: `__bs`",
+    "style": "es20"
+  },
+  {
+    "type": "unscramble",
+    "question": "nóbraC",
+    "answer": "Carbón",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `nóbraC`",
+    "style": "es20"
+  },
+  {
+    "type": "unscramble",
+    "question": "kcarrehteN",
+    "answer": "Netherrack",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `kcarrehteN`",
+    "style": "es20"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "otinarG",
+    "answer": "Granito",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `otinarG`",
+    "style": "es20"
+  },
+  {
+    "type": "fillout",
+    "question": "_a_a",
+    "answer": "Lava",
+    "prompt": "Tienes 20 segundos para completar la palabra: `_a_a`",
+    "style": "es20"
+  },
+  {
+    "type": "unscramble",
+    "question": "tlaéetSi",
+    "answer": "Satélite",
+    "prompt": "Tienes 60 segundos para descifrarlo `tlaéetSi`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "nóbraC",
+    "answer": "Carbón",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `nóbraC`",
+    "style": "es20"
+  },
+  {
+    "type": "fillout",
+    "question": "_r_eper",
+    "answer": "Creeper",
+    "prompt": "Tienes 20 segundos para completar la palabra: `_r_eper`",
+    "style": "es20"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "eamCot",
+    "answer": "Cometa",
+    "prompt": "Tienes 60 segundos para descifrarlo `eamCot`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Dia_an_e",
+    "answer": "Diamante",
+    "prompt": "Tienes 20 segundos para completar la palabra: `Dia_an_e`",
+    "style": "es20"
+  },
+  {
+    "type": "fillout",
+    "question": "_ep__no",
+    "answer": "Neptuno",
+    "prompt": "Completa la palabra `_ep__no`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__co",
+    "answer": "Pico",
+    "prompt": "Tienes 20 segundos para completar la palabra: `__co`",
+    "style": "es20"
+  },
+  {
+    "type": "unscramble",
+    "question": "ardeiP",
+    "answer": "Piedra",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `ardeiP`",
+    "style": "es20"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos lados tiene un dado? (número)",
+    "answer": "6",
+    "prompt": "`¿Cuántos lados tiene un dado? (número)`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "`¿En qué planeta vivimos?`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "ollirdaL",
+    "answer": "Ladrillo",
+    "prompt": "Tienes 20 segundos para poner en orden la palabra: `ollirdaL`",
+    "style": "es20"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos lados tiene un dado? (número)",
+    "answer": "6",
+    "prompt": "¿Cuántos lados tiene un dado? (número)",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "¿En qué planeta vivimos?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos lados tiene un dado? (número)",
+    "answer": "6",
+    "prompt": "¿Cuántos lados tiene un dado? (número)",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿En qué planeta vivimos?",
+    "answer": "Tierra",
+    "prompt": "¿En qué planeta vivimos?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos lados tiene un dado? (número)",
+    "answer": "6",
+    "prompt": "¿Cuántos lados tiene un dado? (número)",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué bloque transparente se fabrica fundiendo arena?",
+    "answer": "Vidrio",
+    "prompt": "¿Qué bloque transparente se fabrica fundiendo arena?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "uNbe",
+    "answer": "Nube",
+    "prompt": "uNbe",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué mob verde explota cuando se acerca a un jugador?",
+    "answer": "Creeper",
+    "prompt": "¿Qué mob verde explota cuando se acerca a un jugador?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué objeto se necesita para encender un portal al Nether?",
+    "answer": "Mechero",
+    "prompt": "¿Qué objeto se necesita para encender un portal al Nether?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal puede ser montado usando una silla?",
+    "answer": "Caballo",
+    "prompt": "¿Qué animal puede ser montado usando una silla?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aPjra",
+    "answer": "Pajar",
+    "prompt": "Tienes 60 segundos para descifrarlo `aPjra`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "rtuonaS",
+    "answer": "Saturno",
+    "prompt": "Tienes 60 segundos para descifrarlo `rtuonaS`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "uLan",
+    "answer": "Luna",
+    "prompt": "Tienes 60 segundos para descifrarlo `uLan`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde se van los niños a aprender?",
+    "answer": "Escuela",
+    "prompt": "¿Cómo se llama el lugar donde se van los niños a aprender?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_ostr__or",
+    "answer": "Mostrador",
+    "prompt": "Completa la palabra `_ostr__or`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "fSáo",
+    "answer": "Sofá",
+    "prompt": "Tienes 60 segundos para descifrarlo `fSáo`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_ase",
+    "answer": "Fase",
+    "prompt": "Completa la palabra `_ase`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "ñaBo",
+    "answer": "Baño",
+    "prompt": "Tienes 60 segundos para descifrarlo `ñaBo`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una trompa larga y es el más grande de la Tierra?",
+    "answer": "Elefante",
+    "prompt": "¿Qué animal tiene una trompa larga y es el más grande de la Tierra?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántas estaciones del año hay?",
+    "answer": "Cuatro",
+    "prompt": "¿Cuántas estaciones del año hay?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "drcSeao",
+    "answer": "Secador",
+    "prompt": "Tienes 60 segundos para descifrarlo `drcSeao`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_st__te",
+    "answer": "Estante",
+    "prompt": "Completa la palabra `_st__te`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__te_rito",
+    "answer": "Meteorito",
+    "prompt": "Completa la palabra `__te_rito`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Óirtab",
+    "answer": "Órbita",
+    "prompt": "Tienes 60 segundos para descifrarlo `Óirtab`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el órgano que utilizamos para oír?",
+    "answer": "Oido",
+    "prompt": "¿Cómo se llama el órgano que utilizamos para oír?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una cola larga y se cuelga de los árboles?",
+    "answer": "Mono",
+    "prompt": "¿Qué animal tiene una cola larga y se cuelga de los árboles?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "eoollarT",
+    "answer": "Toallero",
+    "prompt": "Tienes 60 segundos para descifrarlo `eoollarT`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el resultado de sumar dos más dos?",
+    "answer": "Cuatro",
+    "prompt": "¿Cómo se llama el resultado de sumar dos más dos?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es de color rojo y se utiliza para hacer jugo?",
+    "answer": "Fresa",
+    "prompt": "¿Qué fruta es de color rojo y se utiliza para hacer jugo?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántas patas tiene un perro?",
+    "answer": "Cuatro",
+    "prompt": "¿Cuántas patas tiene un perro?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Caionc",
+    "answer": "Cocina",
+    "prompt": "Tienes 60 segundos para descifrarlo `Caionc`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_asillo",
+    "answer": "Pasillo",
+    "prompt": "Completa la palabra `_asillo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__laxia",
+    "answer": "Galaxia",
+    "prompt": "Completa la palabra `__laxia`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_l__mb_a",
+    "answer": "Alfombra",
+    "prompt": "Completa la palabra `_l__mb_a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es amarilla por fuera y tiene muchas semillas en su interior?",
+    "answer": "Sandía",
+    "prompt": "¿Qué fruta es amarilla por fuera y tiene muchas semillas en su interior?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "A_m_cén",
+    "answer": "Almacén",
+    "prompt": "Completa la palabra `A_m_cén`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Nbosalue",
+    "answer": "Nebulosa",
+    "prompt": "Tienes 60 segundos para descifrarlo `Nbosalue`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__anero",
+    "answer": "Granero",
+    "prompt": "Completa la palabra `__anero`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "F__e",
+    "answer": "Fase",
+    "prompt": "Completa la palabra `F__e`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__l_pse",
+    "answer": "Eclipse",
+    "prompt": "Completa la palabra `__l_pse`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la capital de Francia?",
+    "answer": "Paris",
+    "prompt": "¿Cuál es la capital de Francia?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__aje",
+    "answer": "Viaje",
+    "prompt": "Completa la palabra `__aje`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "nrmtoAsoó",
+    "answer": "Astrónomo",
+    "prompt": "Tienes 60 segundos para descifrarlo `nrmtoAsoó`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una trompa larga y se utiliza para cargar cosas pesadas?",
+    "answer": "Elefante",
+    "prompt": "¿Qué animal tiene una trompa larga y se utiliza para cargar cosas pesadas?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "raaPj",
+    "answer": "Pajar",
+    "prompt": "Tienes 60 segundos para descifrarlo `raaPj`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "radeegroF",
+    "answer": "Fregadero",
+    "prompt": "Tienes 60 segundos para descifrarlo `radeegroF`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "htoeeC",
+    "answer": "Cohete",
+    "prompt": "Tienes 60 segundos para descifrarlo `htoeeC`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__erto",
+    "answer": "Huerto",
+    "prompt": "Completa la palabra `__erto`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "elEpics",
+    "answer": "Eclipse",
+    "prompt": "Tienes 60 segundos para descifrarlo `elEpics`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "pEosej",
+    "answer": "Espejo",
+    "prompt": "Tienes 60 segundos para descifrarlo `pEosej`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde se guardan los libros en la escuela?",
+    "answer": "Biblioteca",
+    "prompt": "¿Cómo se llama el lugar donde se guardan los libros en la escuela?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la parte del cuerpo que usamos para caminar?",
+    "answer": "Pierna",
+    "prompt": "¿Cuál es la parte del cuerpo que usamos para caminar?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una melena y ruge en la selva?",
+    "answer": "León",
+    "prompt": "¿Qué animal tiene una melena y ruge en la selva?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_evera",
+    "answer": "Nevera",
+    "prompt": "Completa la palabra `_evera`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Goall",
+    "answer": "Gallo",
+    "prompt": "Tienes 60 segundos para descifrarlo `Goall`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una cola larga y peluda y vive en los árboles?",
+    "answer": "Mono",
+    "prompt": "¿Qué animal tiene una cola larga y peluda y vive en los árboles?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "doreC",
+    "answer": "Cerdo",
+    "prompt": "Tienes 60 segundos para descifrarlo `doreC`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Coiacn",
+    "answer": "Cocina",
+    "prompt": "Tienes 60 segundos para descifrarlo `Coiacn`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "ioAmrar",
+    "answer": "Armario",
+    "prompt": "Tienes 60 segundos para descifrarlo `ioAmrar`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_a_a",
+    "answer": "Caja",
+    "prompt": "Completa la palabra `_a_a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "eCaratr",
+    "answer": "Cartera",
+    "prompt": "Tienes 60 segundos para descifrarlo `eCaratr`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "uLz",
+    "answer": "Luz",
+    "prompt": "Tienes 60 segundos para descifrarlo `uLz`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Co__os",
+    "answer": "Cosmos",
+    "prompt": "Completa la palabra `Co__os`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal es famoso por su gran trompa y memoria?",
+    "answer": "Elefante",
+    "prompt": "¿Qué animal es famoso por su gran trompa y memoria?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde se guardan los libros en una escuela?",
+    "answer": "Biblioteca",
+    "prompt": "¿Cómo se llama el lugar donde se guardan los libros en una escuela?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "iocóPrt",
+    "answer": "Pórtico",
+    "prompt": "Tienes 60 segundos para descifrarlo `iocóPrt`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_ie__a",
+    "answer": "Tierra",
+    "prompt": "Completa la palabra `_ie__a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene plumas y vuela por el aire?",
+    "answer": "Ave",
+    "prompt": "¿Qué animal tiene plumas y vuela por el aire?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde guardamos la comida en la cocina?",
+    "answer": "Refrigerador",
+    "prompt": "¿Cómo se llama el lugar donde guardamos la comida en la cocina?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "L__a_o",
+    "answer": "Lavabo",
+    "prompt": "Completa la palabra `L__a_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color se obtiene de mezclar azul y rojo?",
+    "answer": "Morado",
+    "prompt": "¿Qué color se obtiene de mezclar azul y rojo?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Un_v_rso",
+    "answer": "Universo",
+    "prompt": "Completa la palabra `Un_v_rso`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos meses tiene un año?",
+    "answer": "Doce",
+    "prompt": "¿Cuántos meses tiene un año?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "natVean",
+    "answer": "Ventana",
+    "prompt": "Tienes 60 segundos para descifrarlo `natVean`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "egAjour",
+    "answer": "Agujero",
+    "prompt": "Tienes 60 segundos para descifrarlo `egAjour`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Fa_e",
+    "answer": "Fase",
+    "prompt": "Completa la palabra `Fa_e`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "eCtoeh",
+    "answer": "Cohete",
+    "prompt": "Tienes 60 segundos para descifrarlo `eCtoeh`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "sormpaC",
+    "answer": "Compras",
+    "prompt": "Tienes 60 segundos para descifrarlo `sormpaC`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "oechT",
+    "answer": "Techo",
+    "prompt": "Tienes 60 segundos para descifrarlo `oechT`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Ab__a",
+    "answer": "Abeja",
+    "prompt": "Completa la palabra `Ab__a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_aja _e_is___dora",
+    "answer": "Caja registradora",
+    "prompt": "Completa la palabra `_aja _e_is___dora `, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "rlaExdroop",
+    "answer": "Explorador",
+    "prompt": "Tienes 60 segundos para descifrarlo `rlaExdroop`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde guardamos la comida en la cocina?",
+    "answer": "Refrigerador",
+    "prompt": "¿Cómo se llama el lugar donde guardamos la comida en la cocina?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal es conocido por su melena y ruge en la selva?",
+    "answer": "León",
+    "prompt": "¿Qué animal es conocido por su melena y ruge en la selva?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Treria",
+    "answer": "Tierra",
+    "prompt": "Tienes 60 segundos para descifrarlo `Treria`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "afeOrt",
+    "answer": "Oferta",
+    "prompt": "Tienes 60 segundos para descifrarlo `afeOrt`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__t__rito",
+    "answer": "Meteorito",
+    "prompt": "Completa la palabra `__t__rito`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "ídJanr",
+    "answer": "Jardín",
+    "prompt": "Tienes 60 segundos para descifrarlo `ídJanr`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_a_él__e",
+    "answer": "Satélite",
+    "prompt": "Completa la palabra `_a_él__e`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "___omb_a",
+    "answer": "Alfombra",
+    "prompt": "Completa la palabra `___omb_a`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "nCjoí",
+    "answer": "Cojín",
+    "prompt": "Tienes 60 segundos para descifrarlo `nCjoí`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Ptenlaa",
+    "answer": "Planeta",
+    "prompt": "Tienes 60 segundos para descifrarlo `Ptenlaa`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "C_l_ivo",
+    "answer": "Cultivo",
+    "prompt": "Completa la palabra `C_l_ivo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__rtera",
+    "answer": "Cartera",
+    "prompt": "Completa la palabra `__rtera`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_iaje",
+    "answer": "Viaje",
+    "prompt": "Completa la palabra `_iaje`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "V_n_s",
+    "answer": "Venus",
+    "prompt": "Completa la palabra `V_n_s`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aldrieS",
+    "answer": "Sideral",
+    "prompt": "Tienes 60 segundos para descifrarlo `aldrieS`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "F__e",
+    "answer": "Fase",
+    "prompt": "Completa la palabra `F__e`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos dedos tiene una mano?",
+    "answer": "Cinco",
+    "prompt": "¿Cuántos dedos tiene una mano?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la capital de Alemania?",
+    "answer": "Berlín",
+    "prompt": "¿Cuál es la capital de Alemania?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "qituatEe",
+    "answer": "Etiqueta",
+    "prompt": "Tienes 60 segundos para descifrarlo `qituatEe`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde guardamos la comida en la cocina?",
+    "answer": "Refrigerador",
+    "prompt": "¿Cómo se llama el lugar donde guardamos la comida en la cocina?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_á_para",
+    "answer": "Lámpara",
+    "prompt": "Completa la palabra `_á_para`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene rayas negras y blancas y es conocido por su agilidad?",
+    "answer": "Cebra",
+    "prompt": "¿Qué animal tiene rayas negras y blancas y es conocido por su agilidad?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "atlriaozH",
+    "answer": "Hortaliza",
+    "prompt": "Tienes 60 segundos para descifrarlo `atlriaozH`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "ogjuAre",
+    "answer": "Agujero",
+    "prompt": "Tienes 60 segundos para descifrarlo `ogjuAre`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "teMar",
+    "answer": "Marte",
+    "prompt": "Tienes 60 segundos para descifrarlo `teMar`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "balseNuo",
+    "answer": "Nebulosa",
+    "prompt": "Tienes 60 segundos para descifrarlo `balseNuo`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Ptao",
+    "answer": "Pato",
+    "prompt": "Tienes 60 segundos para descifrarlo `Ptao`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántas estaciones del año hay?",
+    "answer": "Cuatro",
+    "prompt": "¿Cuántas estaciones del año hay?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aMse",
+    "answer": "Mesa",
+    "prompt": "Tienes 60 segundos para descifrarlo `aMse`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "tslabEo",
+    "answer": "Establo",
+    "prompt": "Tienes 60 segundos para descifrarlo `tslabEo`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "A_mar_o",
+    "answer": "Armario",
+    "prompt": "Completa la palabra `A_mar_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "euptonN",
+    "answer": "Neptuno",
+    "prompt": "Tienes 60 segundos para descifrarlo `euptonN`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_r_ita",
+    "answer": "Órbita",
+    "prompt": "Completa la palabra `_r_ita`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde guardamos la comida en la cocina?",
+    "answer": "Refrigerador",
+    "prompt": "¿Cómo se llama el lugar donde guardamos la comida en la cocina?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color se obtiene de mezclar azul y rojo?",
+    "answer": "Morado",
+    "prompt": "¿Qué color se obtiene de mezclar azul y rojo?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "laalTo",
+    "answer": "Toalla",
+    "prompt": "Tienes 60 segundos para descifrarlo `laalTo`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Rbaeja",
+    "answer": "Rebaja",
+    "prompt": "Tienes 60 segundos para descifrarlo `Rbaeja`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__scue__o",
+    "answer": "Descuento",
+    "prompt": "Completa la palabra `__scue__o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_i_rina",
+    "answer": "Vitrina",
+    "prompt": "Completa la palabra `_i_rina`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "oeCdr",
+    "answer": "Cerdo",
+    "prompt": "Tienes 60 segundos para descifrarlo `oeCdr`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "sEejop",
+    "answer": "Espejo",
+    "prompt": "Tienes 60 segundos para descifrarlo `sEejop`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué instrumento musical se toca golpeando con baquetas?",
+    "answer": "Batería",
+    "prompt": "¿Qué instrumento musical se toca golpeando con baquetas?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__té_ite",
+    "answer": "Satélite",
+    "prompt": "Completa la palabra `__té_ite`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal es conocido por su melena y ruge en la selva?",
+    "answer": "León",
+    "prompt": "¿Qué animal es conocido por su melena y ruge en la selva?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "lTreloao",
+    "answer": "Toallero",
+    "prompt": "Tienes 60 segundos para descifrarlo `lTreloao`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué instrumento se toca golpeando con baquetas?",
+    "answer": "Batería",
+    "prompt": "¿Qué instrumento se toca golpeando con baquetas?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la capital de Francia?",
+    "answer": "Paris",
+    "prompt": "¿Cuál es la capital de Francia?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "E_t_nte",
+    "answer": "Estante",
+    "prompt": "Completa la palabra `E_t_nte`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una caparazón y se arrastra lentamente?",
+    "answer": "Tortuga",
+    "prompt": "¿Qué animal tiene una caparazón y se arrastra lentamente?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_est__u_o",
+    "answer": "Vestíbulo",
+    "prompt": "Completa la palabra `_est__u_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_e_ua",
+    "answer": "Yegua",
+    "prompt": "Completa la palabra `_e_ua`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_rano",
+    "answer": "Urano",
+    "prompt": "Completa la palabra `_rano`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene rayas negras y blancas y vive en la selva?",
+    "answer": "Tigre",
+    "prompt": "¿Qué animal tiene rayas negras y blancas y vive en la selva?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una trompa larga y es el más grande de la Tierra?",
+    "answer": "Elefante",
+    "prompt": "¿Qué animal tiene una trompa larga y es el más grande de la Tierra?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_guje_o",
+    "answer": "Agujero",
+    "prompt": "Completa la palabra `_guje_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Co___e",
+    "answer": "Cohete",
+    "prompt": "Completa la palabra `Co___e`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "iColnao",
+    "answer": "Colonia",
+    "prompt": "Tienes 60 segundos para descifrarlo `iColnao`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Ne__uno",
+    "answer": "Neptuno",
+    "prompt": "Completa la palabra `Ne__uno`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el animal que dice \"guau\" y es amigo del hombre?",
+    "answer": "Perro",
+    "prompt": "¿Cuál es el animal que dice \"guau\" y es amigo del hombre?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "P__n__o_de",
+    "answer": "Planetoide",
+    "prompt": "Completa la palabra `P__n__o_de`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_ereal",
+    "answer": "Cereal",
+    "prompt": "Completa la palabra `_ereal`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "T_a_le_o",
+    "answer": "Toallero",
+    "prompt": "Completa la palabra `T_a_le_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__tél_te",
+    "answer": "Satélite",
+    "prompt": "Completa la palabra `__tél_te`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es pequeña, redonda y de color rojo?",
+    "answer": "Fresa",
+    "prompt": "¿Qué fruta es pequeña, redonda y de color rojo?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "P__o",
+    "answer": "Polo",
+    "prompt": "Completa la palabra `P__o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color se obtiene de mezclar azul y rojo?",
+    "answer": "Morado",
+    "prompt": "¿Qué color se obtiene de mezclar azul y rojo?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__evo",
+    "answer": "Huevo",
+    "prompt": "Completa la palabra `__evo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_oh__e",
+    "answer": "Cohete",
+    "prompt": "Completa la palabra `_oh__e`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el instrumento musical de viento que se toca soplando por una boquilla?",
+    "answer": "Flauta",
+    "prompt": "¿Cómo se llama el instrumento musical de viento que se toca soplando por una boquilla?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "amaC",
+    "answer": "Cama",
+    "prompt": "Tienes 60 segundos para descifrarlo `amaC`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una cola larga y es conocido por colgarse de los árboles?",
+    "answer": "Mono",
+    "prompt": "¿Qué animal tiene una cola larga y es conocido por colgarse de los árboles?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__ie_te",
+    "answer": "Cliente",
+    "prompt": "Completa la palabra `__ie_te`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "bÓtira",
+    "answer": "Órbita",
+    "prompt": "Tienes 60 segundos para descifrarlo `bÓtira`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la parte del cuerpo que usamos para caminar?",
+    "answer": "Pierna",
+    "prompt": "¿Cuál es la parte del cuerpo que usamos para caminar?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_a___ite",
+    "answer": "Satélite",
+    "prompt": "Completa la palabra `_a___ite`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una cola larga y es conocido por colgarse de los árboles?",
+    "answer": "Mono",
+    "prompt": "¿Qué animal tiene una cola larga y es conocido por colgarse de los árboles?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Sematsi",
+    "answer": "Sistema",
+    "prompt": "Tienes 60 segundos para descifrarlo `Sematsi`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la capital de Alemania?",
+    "answer": "Berlín",
+    "prompt": "¿Cuál es la capital de Alemania?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_am_o",
+    "answer": "Campo",
+    "prompt": "Completa la palabra `_am_o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__rtina",
+    "answer": "Cortina",
+    "prompt": "Completa la palabra `__rtina`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "dJaírn",
+    "answer": "Jardín",
+    "prompt": "Tienes 60 segundos para descifrarlo `dJaírn`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el día que viene después del viernes?",
+    "answer": "Sábado",
+    "prompt": "¿Cuál es el día que viene después del viernes?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "ribeaH",
+    "answer": "Hierba",
+    "prompt": "Tienes 60 segundos para descifrarlo `ribeaH`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_aj__o",
+    "answer": "Cajero",
+    "prompt": "Completa la palabra `_aj__o`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aCaj",
+    "answer": "Caja",
+    "prompt": "Tienes 60 segundos para descifrarlo `aCaj`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es pequeña, roja y muy dulce?",
+    "answer": "Fresa",
+    "prompt": "¿Qué fruta es pequeña, roja y muy dulce?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "sMea",
+    "answer": "Mesa",
+    "prompt": "Tienes 60 segundos para descifrarlo `sMea`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es de color amarillo por fuera y verde por dentro?",
+    "answer": "Sandía",
+    "prompt": "¿Qué fruta es de color amarillo por fuera y verde por dentro?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el objeto que usamos para escribir en un papel?",
+    "answer": "Lápiz",
+    "prompt": "¿Cómo se llama el objeto que usamos para escribir en un papel?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color tiene el cielo en un día despejado?",
+    "answer": "Azul",
+    "prompt": "¿Qué color tiene el cielo en un día despejado?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Es____la",
+    "answer": "Estrella",
+    "prompt": "Completa la palabra `Es____la`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "caSoerd",
+    "answer": "Secador",
+    "prompt": "Tienes 60 segundos para descifrarlo `caSoerd`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "noUar",
+    "answer": "Urano",
+    "prompt": "Tienes 60 segundos para descifrarlo `noUar`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el vehículo que usamos para viajar por la ciudad?",
+    "answer": "Auto",
+    "prompt": "¿Cómo se llama el vehículo que usamos para viajar por la ciudad?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_aja",
+    "answer": "Caja",
+    "prompt": "Completa la palabra `_aja`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el opuesto de \"frío\"?",
+    "answer": "Calor",
+    "prompt": "¿Cuál es el opuesto de \"frío\"?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "baovaL",
+    "answer": "Lavabo",
+    "prompt": "Tienes 60 segundos para descifrarlo `baovaL`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el instrumento musical de viento que se toca soplando por una boquilla?",
+    "answer": "Flauta",
+    "prompt": "¿Cómo se llama el instrumento musical de viento que se toca soplando por una boquilla?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "oPat",
+    "answer": "Pato",
+    "prompt": "Tienes 60 segundos para descifrarlo `oPat`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "eiraTr",
+    "answer": "Tierra",
+    "prompt": "Tienes 60 segundos para descifrarlo `eiraTr`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "___ante",
+    "answer": "Estante",
+    "prompt": "Completa la palabra `___ante`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_a_a __gis_ra_ora",
+    "answer": "Caja registradora",
+    "prompt": "Completa la palabra `_a_a __gis_ra_ora `, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_olo",
+    "answer": "Polo",
+    "prompt": "Completa la palabra `_olo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántas estaciones del año hay?",
+    "answer": "Cuatro",
+    "prompt": "¿Cuántas estaciones del año hay?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el instrumento musical de viento que se toca soplando por una boquilla?",
+    "answer": "Flauta",
+    "prompt": "¿Cómo se llama el instrumento musical de viento que se toca soplando por una boquilla?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_a__a_ión",
+    "answer": "Radiación",
+    "prompt": "Completa la palabra `_a__a_ión`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "oUrna",
+    "answer": "Urano",
+    "prompt": "Tienes 60 segundos para descifrarlo `oUrna`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una concha y se arrastra lentamente?",
+    "answer": "Caracol",
+    "prompt": "¿Qué animal tiene una concha y se arrastra lentamente?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal dice \"miau\"?",
+    "answer": "Gato",
+    "prompt": "¿Qué animal dice \"miau\"?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Ve_t_na",
+    "answer": "Ventana",
+    "prompt": "Completa la palabra `Ve_t_na`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "nBalcó",
+    "answer": "Balcón",
+    "prompt": "Tienes 60 segundos para descifrarlo `nBalcó`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "erñaaB",
+    "answer": "Bañera",
+    "prompt": "Tienes 60 segundos para descifrarlo `erñaaB`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Gxialaa",
+    "answer": "Galaxia",
+    "prompt": "Tienes 60 segundos para descifrarlo `Gxialaa`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos meses tiene un año?",
+    "answer": "Doce",
+    "prompt": "¿Cuántos meses tiene un año?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aaiGaxl",
+    "answer": "Galaxia",
+    "prompt": "Tienes 60 segundos para descifrarlo `aaiGaxl`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es amarilla por fuera y blanca por dentro?",
+    "answer": "Plátano",
+    "prompt": "¿Qué fruta es amarilla por fuera y blanca por dentro?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "ocCahse",
+    "answer": "Cosecha",
+    "prompt": "Tienes 60 segundos para descifrarlo `ocCahse`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "S__ador",
+    "answer": "Secador",
+    "prompt": "Completa la palabra `S__ador`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color resulta de mezclar rojo y amarillo?",
+    "answer": "Naranja",
+    "prompt": "¿Qué color resulta de mezclar rojo y amarillo?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el instrumento musical que se toca golpeando con las manos?",
+    "answer": "Tambor",
+    "prompt": "¿Cómo se llama el instrumento musical que se toca golpeando con las manos?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_a_a r__i__rad_ra",
+    "answer": "Caja registradora",
+    "prompt": "Completa la palabra `_a_a r__i__rad_ra `, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "___ero",
+    "answer": "Cajero",
+    "prompt": "Completa la palabra `___ero`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "S__éli_e",
+    "answer": "Satélite",
+    "prompt": "Completa la palabra `S__éli_e`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué color tiene la sangre de las personas cuando sale del cuerpo?",
+    "answer": "Rojo",
+    "prompt": "¿Qué color tiene la sangre de las personas cuando sale del cuerpo?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal es conocido por tener una cola larga y peluda?",
+    "answer": "Mono",
+    "prompt": "¿Qué animal es conocido por tener una cola larga y peluda?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es la capital de España?",
+    "answer": "Madrid",
+    "prompt": "¿Cuál es la capital de España?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "jgoeAur",
+    "answer": "Agujero",
+    "prompt": "Tienes 60 segundos para descifrarlo `jgoeAur`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "axliGaa",
+    "answer": "Galaxia",
+    "prompt": "Tienes 60 segundos para descifrarlo `axliGaa`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde se enseña y aprende?",
+    "answer": "Escuela",
+    "prompt": "¿Cómo se llama el lugar donde se enseña y aprende?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "ehCoet",
+    "answer": "Cohete",
+    "prompt": "Tienes 60 segundos para descifrarlo `ehCoet`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_i_t_ma",
+    "answer": "Sistema",
+    "prompt": "Completa la palabra `_i_t_ma`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el color que resulta de mezclar amarillo y blanco?",
+    "answer": "Amarillo",
+    "prompt": "¿Cuál es el color que resulta de mezclar amarillo y blanco?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una cola larga y se cuelga de las ramas?",
+    "answer": "Mono",
+    "prompt": "¿Qué animal tiene una cola larga y se cuelga de las ramas?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una coraza y se mueve muy despacio?",
+    "answer": "Tortuga",
+    "prompt": "¿Qué animal tiene una coraza y se mueve muy despacio?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_e_i_lo",
+    "answer": "Cepillo",
+    "prompt": "Completa la palabra `_e_i_lo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "cEslraea",
+    "answer": "Escalera",
+    "prompt": "Tienes 60 segundos para descifrarlo `cEslraea`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el metal más precioso del mundo?",
+    "answer": "Oro",
+    "prompt": "¿Cuál es el metal más precioso del mundo?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "What itme do you get for smelting a wood log?",
+    "answer": "Charcoal",
+    "prompt": "`What itme do you get for smelting a wood log?`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "How many eyes of ender are needed to open the end portal?",
+    "answer": "12",
+    "prompt": "`How many eyes of ender are needed to open the end portal?`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "How many blocks does it take to fully power 1 beacon?",
+    "answer": "169",
+    "prompt": "`How many blocks does it take to fully power 1 beacon?`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "ieveehB",
+    "answer": "Beehive",
+    "prompt": "You have 20 seconds to unscramble: `ieveehB`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "isntoP",
+    "answer": "Piston",
+    "prompt": "You have 20 seconds to unscramble: `isntoP`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "oPtoin",
+    "answer": "Potion",
+    "prompt": "You have 20 seconds to unscramble: `oPtoin`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "T___ole",
+    "answer": "Tadpole",
+    "prompt": "You have 20 seconds to fill in the word: `T___ole`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "How many music discs are in Minecraft?",
+    "answer": "15",
+    "prompt": "`How many music discs are in Minecraft?`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "crreTttaoa",
+    "answer": "Terracotta",
+    "prompt": "You have 20 seconds to unscramble: `crreTttaoa`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "A__lot_",
+    "answer": "Axolotl",
+    "prompt": "You have 20 seconds to fill in the word: `A__lot_`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "noPtoi",
+    "answer": "Potion",
+    "prompt": "You have 20 seconds to unscramble: `noPtoi`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "lmnaoS",
+    "answer": "Salmon",
+    "prompt": "You have 20 seconds to unscramble: `lmnaoS`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "Moss",
+    "answer": "Moss",
+    "prompt": "You have 20 seconds to unscramble: `Moss`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "mpsasCo",
+    "answer": "Compass",
+    "prompt": "You have 20 seconds to unscramble: `mpsasCo`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "ohlSev",
+    "answer": "Shovel",
+    "prompt": "You have 20 seconds to unscramble: `ohlSev`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "Q_a_tz",
+    "answer": "Quartz",
+    "prompt": "You have 20 seconds to fill in the word: `Q_a_tz`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "Sh__ker",
+    "answer": "Shulker",
+    "prompt": "You have 20 seconds to fill in the word: `Sh__ker`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "Nethe__te",
+    "answer": "Netherite",
+    "prompt": "You have 20 seconds to fill in the word: `Nethe__te`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "B_t_on",
+    "answer": "Button",
+    "prompt": "You have 20 seconds to fill in the word: `B_t_on`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "Ma_g_ove",
+    "answer": "Mangrove",
+    "prompt": "You have 20 seconds to fill in the word: `Ma_g_ove`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "End__m_n",
+    "answer": "Enderman",
+    "prompt": "You have 20 seconds to fill in the word: `End__m_n`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "What item is dropped when a turtle dies by lightning",
+    "answer": "Bowl",
+    "prompt": "`What item is dropped when a turtle dies by lightning`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "prHepo",
+    "answer": "Hopper",
+    "prompt": "You have 20 seconds to unscramble: `prHepo`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "erdnE hsCet",
+    "answer": "Ender Chest",
+    "prompt": "You have 20 seconds to unscramble: `erdnE hsCet`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "amssCpo",
+    "answer": "Compass",
+    "prompt": "You have 20 seconds to unscramble: `amssCpo`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "smrMoouh",
+    "answer": "Mushroom",
+    "prompt": "You have 20 seconds to unscramble: `smrMoouh`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "What material is used to tame cats?",
+    "answer": "Fish",
+    "prompt": "`What material is used to tame cats?`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "Che_t",
+    "answer": "Chest",
+    "prompt": "You have 20 seconds to fill in the word: `Che_t`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "btbRai",
+    "answer": "Rabbit",
+    "prompt": "You have 20 seconds to unscramble: `btbRai`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "eEojps",
+    "answer": "Espejo",
+    "prompt": "Tienes 60 segundos para descifrarlo `eEojps`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "emBoi",
+    "answer": "Biome",
+    "prompt": "You have 20 seconds to unscramble: `emBoi`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "alpginS",
+    "answer": "Sapling",
+    "prompt": "You have 20 seconds to unscramble: `alpginS`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "bmoZie",
+    "answer": "Zombie",
+    "prompt": "You have 20 seconds to unscramble: `bmoZie`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "Cow",
+    "answer": "Cow",
+    "prompt": "You have 20 seconds to unscramble: `Cow`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "_or_e",
+    "answer": "Horse",
+    "prompt": "You have 20 seconds to fill in the word: `_or_e`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "epDressin",
+    "answer": "Dispenser",
+    "prompt": "You have 20 seconds to unscramble: `epDressin`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "dimaDno",
+    "answer": "Diamond",
+    "prompt": "You have 20 seconds to unscramble: `dimaDno`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "urzQat",
+    "answer": "Quartz",
+    "prompt": "You have 20 seconds to unscramble: `urzQat`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "rftnCiga",
+    "answer": "Crafting",
+    "prompt": "You have 20 seconds to unscramble: `rftnCiga`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "What biome is home to bamboo?",
+    "answer": "Jungle",
+    "prompt": "`What biome is home to bamboo?`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "What item does the wither drop when slain?",
+    "answer": "Nether Star",
+    "prompt": "`What item does the wither drop when slain?`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "What valueable item drops from the evoker?",
+    "answer": "Totem of Undying",
+    "prompt": "`What valueable item drops from the evoker?`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "What valueable item drops from the evoker?",
+    "answer": "Totem of Undying",
+    "prompt": "`What valueable item drops from the evoker?`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "How many wooden planks does it take to craft 16 crafting tables?",
+    "answer": "64",
+    "prompt": "`How many wooden planks does it take to craft 16 crafting tables?`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "What is the most common crafting material in Minecraft?",
+    "answer": "Wood",
+    "prompt": "`What is the most common crafting material in Minecraft?`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "_abbi_",
+    "answer": "Rabbit",
+    "prompt": "You have 20 seconds to fill in the word: `_abbi_`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "orHes",
+    "answer": "Horse",
+    "prompt": "You have 20 seconds to unscramble: `orHes`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "Ho__er",
+    "answer": "Hopper",
+    "prompt": "You have 20 seconds to fill in the word: `Ho__er`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "lsdoqiuGw",
+    "answer": "Glowsquid",
+    "prompt": "You have 20 seconds to unscramble: `lsdoqiuGw`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "Ssaher",
+    "answer": "Shears",
+    "prompt": "You have 20 seconds to unscramble: `Ssaher`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "icMsu sDic",
+    "answer": "Music Disc",
+    "prompt": "You have 20 seconds to unscramble: `icMsu sDic`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "nhicCke",
+    "answer": "Chicken",
+    "prompt": "You have 20 seconds to unscramble: `nhicCke`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "_c_i_se",
+    "answer": "Eclipse",
+    "prompt": "Completa la palabra `_c_i_se`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_omp_ar",
+    "answer": "Comprar",
+    "prompt": "Completa la palabra `_omp_ar`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué animal tiene una trompa larga y vive en la selva?",
+    "answer": "Elefante",
+    "prompt": "¿Qué animal tiene una trompa larga y vive en la selva?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es de color amarillo por fuera y verde por dentro?",
+    "answer": "Sandía",
+    "prompt": "¿Qué fruta es de color amarillo por fuera y verde por dentro?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el animal que dice \"mu\" y nos da leche?",
+    "answer": "Vaca",
+    "prompt": "¿Cuál es el animal que dice \"mu\" y nos da leche?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "S_d__al",
+    "answer": "Sideral",
+    "prompt": "Completa la palabra `S_d__al`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__cador",
+    "answer": "Secador",
+    "prompt": "Completa la palabra `__cador`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "aalP",
+    "answer": "Pala",
+    "prompt": "Tienes 60 segundos para descifrarlo `aalP`",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el cuerpo celeste que brilla en la noche y gira alrededor de la Tierra?",
+    "answer": "Luna",
+    "prompt": "¿Cómo se llama el cuerpo celeste que brilla en la noche y gira alrededor de la Tierra?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el color que resulta de mezclar rojo y amarillo?",
+    "answer": "Naranja",
+    "prompt": "¿Cuál es el color que resulta de mezclar rojo y amarillo?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Qué fruta es pequeña, redonda y de color rojo?",
+    "answer": "Fresa",
+    "prompt": "¿Qué fruta es pequeña, redonda y de color rojo?",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "iÓbrat",
+    "answer": "Órbita",
+    "prompt": "Tienes 60 segundos para descifrarlo `iÓbrat`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_rbita",
+    "answer": "Órbita",
+    "prompt": "Completa la palabra `_rbita`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_enus",
+    "answer": "Venus",
+    "prompt": "Completa la palabra `_enus`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuál es el opuesto de \"lento\"?",
+    "answer": "Rápido",
+    "prompt": "¿Cuál es el opuesto de \"lento\"?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántas patas tiene un perro?",
+    "answer": "Cuatro",
+    "prompt": "¿Cuántas patas tiene un perro?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cuántos días tiene el mes de abril?",
+    "answer": "Treinta",
+    "prompt": "¿Cuántos días tiene el mes de abril?",
+    "style": "es60"
+  },
+  {
+    "type": "trivia",
+    "question": "¿Cómo se llama el lugar donde compramos comida y otras cosas?",
+    "answer": "Mercado",
+    "prompt": "¿Cómo se llama el lugar donde compramos comida y otras cosas?",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "__la_ia",
+    "answer": "Galaxia",
+    "prompt": "Completa la palabra `__la_ia`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "rToelaol",
+    "answer": "Toallero",
+    "prompt": "Tienes 60 segundos para descifrarlo `rToelaol`",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "_es__b_lo",
+    "answer": "Vestíbulo",
+    "prompt": "Completa la palabra `_es__b_lo`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "fillout",
+    "question": "Crá__r",
+    "answer": "Cráter",
+    "prompt": "Completa la palabra `Crá__r`, Tienes 60 segundos",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "Cjaa ridrsaoeartg",
+    "answer": "Caja registradora",
+    "prompt": "Tienes 60 segundos para descifrarlo `Cjaa ridrsaoeartg `",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "lSo",
+    "answer": "Sol",
+    "prompt": "Tienes 60 segundos para descifrarlo `lSo`",
+    "style": "es60"
+  },
+  {
+    "type": "unscramble",
+    "question": "kcluS",
+    "answer": "Sculk",
+    "prompt": "You have 20 seconds to unscramble: `kcluS`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "irnTted",
+    "answer": "Trident",
+    "prompt": "You have 20 seconds to unscramble: `irnTted`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "oiwGsdqlu",
+    "answer": "Glowsquid",
+    "prompt": "You have 20 seconds to unscramble: `oiwGsdqlu`",
+    "style": "en20"
+  },
+  {
+    "type": "unscramble",
+    "question": "Cperere",
+    "answer": "Creeper",
+    "prompt": "You have 20 seconds to unscramble: `Cperere`",
+    "style": "en20"
+  },
+  {
+    "type": "trivia",
+    "question": "What itme do you get for smelting a wood log?",
+    "answer": "Charcoal",
+    "prompt": "`What itme do you get for smelting a wood log?`",
+    "style": "en20"
+  },
+  {
+    "type": "fillout",
+    "question": "L_v_r",
+    "answer": "Lever",
+    "prompt": "You have 20 seconds to fill in the word: `L_v_r`",
+    "style": "en20"
+  }
+]

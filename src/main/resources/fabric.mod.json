@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "chatgames_universal_helper",
+  "version": "${version}",
+  "name": "ChatGames Universal Helper",
+  "description": "Client-side chat challenge helper with log tailing and rich text inspection.",
+  "authors": [
+    "Clares"
+  ],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.clares.chatgames.ChatGamesUniversalHelperClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "license": "MIT"
+}
