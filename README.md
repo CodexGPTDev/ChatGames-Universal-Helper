@@ -575,3 +575,5 @@ proceden de esa ejecución del cliente.
 <p align="center">
   Especialmente creado para <strong>Infection.fun</strong> • Puerto <strong>19132</strong>
 </p>
+
+⚠️ Advertencia de Seguridad: El uso de modificadores de cliente para automatizar respuestas e interactuar con juegos de chat suele violar las normativas de la mayoría de los servidores públicos de Minecraft, pudiendo resultar en una expulsión definitiva (ban). Se recomienda ajustar los tiempos de respuesta con márgenes generosos y usarlo bajo tu propia responsabilidad
